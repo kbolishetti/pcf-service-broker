@@ -1,12 +1,14 @@
 package com.techolution.hashmap;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
 
 
 /**
  * @author shyamjumberu
  *
  */
+@Component
 public class HashMapBrokerService {
 
 
