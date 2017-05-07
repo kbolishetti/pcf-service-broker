@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="hashmap-service-broker" />
+        <module name="hashmap-service-broker-client" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="hashmap-service-broker" target="1.8" />
+      <module name="hashmap-service-broker-client" target="1.8" />
       <module name="pcf-service-broker" target="1.6" />
     </bytecodeTargetLevel>
   </component>

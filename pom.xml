@@ -16,7 +16,7 @@
 
     <modules>
         <module>hashmap-service-broker</module>
-        <!--<module>hashmap-service-broker-client</module>-->
+        <module>hashmap-service-broker-client</module>
     </modules>
 
 </project>
